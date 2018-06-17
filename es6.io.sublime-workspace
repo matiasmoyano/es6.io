@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"horario",
+				"horario_fin"
+			],
+			[
+				"hora",
+				"horarios_filtrados"
+			],
+			[
+				"horari",
+				"horario"
+			],
+			[
+				"fecha",
+				"fecha_hora_fin"
+			],
+			[
+				"turno",
+				"turno_valido"
+			],
+			[
+				"especia",
+				"especialistas"
+			],
+			[
+				"espec",
+				"especialistas"
+			],
+			[
+				"fe",
+				"fecha_hora_inicio"
+			],
+			[
+				"tur",
+				"turno"
+			],
+			[
+				"turnos",
+				"turnos_validos"
+			],
+			[
+				"del",
+				"delta"
+			],
+			[
+				"fechas",
+				"fechas_con_horas"
+			],
+			[
+				"fals",
+				"False"
+			],
+			[
+				"op",
+				"opciones_filtrado"
+			],
+			[
+				"provee",
+				"proveedor_registros"
+			],
+			[
+				"params",
+				"params_horario_eventual"
+			],
+			[
+				"crear",
+				"crear_horario_jornada_eventual"
+			],
+			[
+				"param",
+				"params_ausencia"
+			],
+			[
+				"crear_horario",
+				"crear_horario_jornada_eventual"
+			],
+			[
+				"prove",
+				"proveedor_registros"
+			],
+			[
+				"crear_es",
+				"crear_especialidad"
+			],
+			[
+				"crea",
+				"crear_regla"
+			],
+			[
+				"ERR",
+				"err_msg3"
+			],
+			[
+				"razon",
+				"razones"
+			],
+			[
+				"horarios",
+				"horarios_filtrados"
+			],
+			[
+				"vaca",
+				"vacaciones_filtrado"
+			],
+			[
+				"ausen",
+				"ausencias_filtradas"
+			],
+			[
+				"dia",
+				"dia_regex"
+			],
+			[
+				"json",
+				"jsonresponse"
+			],
+			[
+				"turno_dia",
+				"turno_dia_fin"
+			],
+			[
+				"opcio",
+				"opciones_filtrado_eventos"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"espe",
+				"especialista_id"
+			],
+			[
+				"ho",
+				"hora_inicio"
+			],
+			[
+				"tipo",
+				"tipo_horario"
+			],
+			[
+				"msg",
+				"msg_turnos"
+			],
+			[
+				"listado",
+				"listado_jornadas"
+			],
+			[
+				"nom",
+				"nombre_especialistas"
+			],
+			[
+				"no",
+				"nombre_especialistas"
+			],
+			[
+				"especialida",
+				"especialidades"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"dispo",
+				"disponibles_columnas"
+			],
+			[
+				"modal",
+				"modal_reporte"
+			],
+			[
+				"es",
+				"especialista"
+			],
+			[
+				"proveedor",
+				"proveedor_pacientes"
+			],
+			[
+				"prov",
+				"proveedor_consultorios"
+			],
+			[
+				"crear_turno",
+				"crear_turno_paciente"
+			],
+			[
+				"test",
+				"test_existe_horario_para_validar_turno"
+			],
+			[
+				"Turno",
+				"Turno_Paciente"
+			],
+			[
+				"ex",
+				"existe_horario"
+			],
+			[
+				"inval",
+				"invalidos_columnas"
+			],
+			[
+				"col",
+				"columnas"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"feca",
+				"fecha_hora_inicio"
+			],
+			[
+				"get",
+				"get_turnos"
+			],
+			[
+				"Fecha",
+				"fecha_inicio"
+			],
+			[
+				"proce",
+				"procesar_turnos_invalidos"
+			],
+			[
+				"pro",
+				"procesar_turnos_invalidos"
+			],
+			[
+				"invali",
+				"invalidos"
+			],
+			[
+				"pacientes",
+				"pacientes_misma_hora"
+			],
+			[
+				"total",
+				"total_pacientes"
+			],
+			[
+				"fix",
+				"FILE_FIXTURES"
+			],
+			[
+				"file",
+				"FILE_FIXTURES"
+			],
+			[
+				"FILE",
+				"FILE_NAME"
+			],
+			[
+				"invalidos",
+				"invalidos_table"
+			],
+			[
+				"horar",
+				"horario_fin"
+			],
+			[
+				"ausencia",
+				"ausencias"
+			],
+			[
+				"chec",
+				"check_osteo"
+			],
+			[
+				"nombre",
+				"nombre_especialidades"
+			],
+			[
+				"check",
+				"check_fisio"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"SU",
+				"SUPER_EMAIL"
+			],
+			[
+				"t",
+				"turnero_marzi"
+			],
+			[
+				"SUPER",
+				"SUPER_EMAIL"
+			],
+			[
+				"SUPE",
+				"SUPER_USER"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "data.js",
+			"settings":
+			{
+				"buffer_size": 1698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PRACTICE/arrow_funcs.js",
+			"settings":
+			{
+				"buffer_size": 333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PRACTICE/index.html",
+			"settings":
+			{
+				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Firecuda/PROJECTS/es6.io"
+	],
+	"file_history":
+	[
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/admin.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/osociales/models.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/tools.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/docker-compose.yml",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/requirements.txt",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/Dockerfile",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/start.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/logger/debug.log",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/load.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/coverage.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/.gitignore",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/turnero_marzi/settings.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/vacacion.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/models.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/turnos/models.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/views.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/migrations/0004_auto_20180220_2211.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/migrations/0001_initial.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/migrations/0005_auto_20180224_1511.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/migrations/0003_auto_20180220_2209.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/migrations/0006_auto_20180224_1932.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/setup.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/coverage.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/turnero_marzi/urls.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/backup.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/validar_horarios.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/horarios.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/turnos/admin.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/turnero_marzi/views.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/calendario/static/calendario/calendario_acciones.js",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/reporte.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/pacientes/apps.py",
+		"/Volumes/Firecuda/PROJECTS/micromaster_software_development/README.md",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/calendario/templates/calendario/widget.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/invalidos.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/urls.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/forms.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/static/horario/data/invalidos.txt",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/tests.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/templates/turnero_marzi/base.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/migrations/0002_auto_20180203_2112.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/static/horario/invalidos.txt",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/library/setup.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/first.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/my-script.sh",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/consultorio/models.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/feriado.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/horario/templates/horario/sabado.html",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/especialidad/models.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/especialidad/admin.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/especialista/models.py",
+		"/Volumes/Firecuda/PROJECTS/turnero-py-marzi/especialista/admin.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1425,
+								1313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PRACTICE/arrow_funcs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"SL.79.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "PRACTICE/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "es6.io.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
