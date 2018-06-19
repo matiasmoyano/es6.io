@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"ele",
+				"element"
+			],
+			[
+				"eleme",
+				"elements"
+			],
+			[
+				"cosn",
+				"console"
+			],
+			[
 				"horario",
 				"horario_fin"
 			],
@@ -328,10 +340,56 @@
 			}
 		},
 		{
+			"file": "PRACTICE/more_practice.js",
+			"settings":
+			{
+				"buffer_size": 789,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "more_practice.js"
+			}
+		},
+		{
 			"file": "PRACTICE/arrow_funcs.js",
 			"settings":
 			{
-				"buffer_size": 333,
+				"buffer_size": 729,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "02 - Arrow functions/exercises/Exercise 1.html",
+			"settings":
+			{
+				"buffer_size": 1748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "02 - Arrow functions/exercises/Exercise 1 - ANSWER.html",
+			"settings":
+			{
+				"buffer_size": 1759,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "02 - Arrow functions/exercises/Exercise 1-WES.html",
+			"settings":
+			{
+				"buffer_size": 1774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "02 - Arrow functions/exercises/Exercise 2.html",
+			"settings":
+			{
+				"buffer_size": 444,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -340,7 +398,7 @@
 			"file": "PRACTICE/index.html",
 			"settings":
 			{
-				"buffer_size": 121,
+				"buffer_size": 188,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "index.html"
@@ -493,12 +551,15 @@
 						"selection":
 						[
 							[
-								1425,
-								1313
+								600,
+								600
 							]
 						],
 						"settings":
 						{
+							"SL.13.region_keys":
+							[
+							],
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -507,24 +568,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "PRACTICE/arrow_funcs.js",
+					"file": "PRACTICE/more_practice.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 333,
+						"buffer_size": 789,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								307,
-								307
+								298,
+								298
 							]
 						],
 						"settings":
@@ -532,6 +593,7 @@
 							"SL.79.region_keys":
 							[
 							],
+							"auto_name": "more_practice.js",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -543,23 +605,202 @@
 				},
 				{
 					"buffer": 2,
-					"file": "PRACTICE/index.html",
+					"file": "PRACTICE/arrow_funcs.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 121,
+						"buffer_size": 729,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								94,
-								94
+								729,
+								729
 							]
 						],
 						"settings":
 						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.142.region_keys":
+							[
+							],
+							"SL.79.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "02 - Arrow functions/exercises/Exercise 1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.169.region_keys":
+							[
+							],
+							"SL.38.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "02 - Arrow functions/exercises/Exercise 1 - ANSWER.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.172.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "02 - Arrow functions/exercises/Exercise 1-WES.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "02 - Arrow functions/exercises/Exercise 2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "PRACTICE/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
 							"auto_name": "index.html",
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
@@ -567,7 +808,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
